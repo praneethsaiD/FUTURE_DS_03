@@ -70,9 +70,7 @@ The interactive Power BI dashboard provides a clear overview of student satisfac
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/your-username/college-event-feedback-analysis.git](https://github.com/your-username/college-event-feedback-analysis.git)
-    ```
-    *(Replace with your actual repository URL)*
+https://github.com/praneethsaiD/FUTURE_DS_03/blob/main/TASK%203.pbix
 
 2.  **Open Power BI Dashboard:**
     * Ensure you have Power BI Desktop installed (download from [Power BI website](https://powerbi.microsoft.com/en-us/downloads/)).
